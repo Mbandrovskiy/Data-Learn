@@ -17,3 +17,8 @@ Business Layer - слой для доступа к данным бизнес п�
 Построить примеры отчетов
 Создать дашборд
 И другая функциональность Excel на ваш выбор
+
+
+[Sample - Superstore HW.xlsx](https://github.com/Mbandrovskiy/Data-Learn/blob/0f9e1cf26a868dbbe0584f920d0803c24618e990/DE%20-%20101%20Modules/Module01/Sample%20-%20Superstore%20HW.xlsx)
+
+![Sample - Superstore Dashboard.pdf](https://github.com/Mbandrovskiy/Data-Learn/blob/b57ab2eb34f7388f4036076b3846998e73fcb683/DE%20-%20101%20Modules/Module01/Sample%20-%20Superstore%20Dashboard.pdf)
