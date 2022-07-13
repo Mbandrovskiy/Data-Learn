@@ -4,3 +4,4 @@
 ## Выполненные задания:
 #### [Module01](https://github.com/Mbandrovskiy/Data-Learn/tree/main/DE%20-%20101%20Modules/Module01)
 
+#### [Module02](https://github.com/Mbandrovskiy/Data-Learn/tree/main/DE%20-%20101%20Modules/Module02)
