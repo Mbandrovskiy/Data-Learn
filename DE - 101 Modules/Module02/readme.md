@@ -2,7 +2,7 @@
 
 ### Установка БД 
 
-[PostgreSQL](https://github.com/Mbandrovskiy/Data-Learn/blob/82b3d19eeaba0c035d52047d493bdf11e94f7011/DE%20-%20101%20Modules/Module02/PostgreSQL_installation.png)
+![PostgreSQL](https://github.com/Mbandrovskiy/Data-Learn/blob/82b3d19eeaba0c035d52047d493bdf11e94f7011/DE%20-%20101%20Modules/Module02/PostgreSQL_installation.png)
 
 ### Загрузка данных в БД
 ### SQL запросы
