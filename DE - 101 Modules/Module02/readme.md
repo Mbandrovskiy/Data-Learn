@@ -16,8 +16,7 @@
 
 [Returned](https://github.com/Mbandrovskiy/Data-Learn/blob/d79c1cf750b37fd01ff05eebda36e735c3dee464/DE%20-%20101%20Modules/Module02/Returned_creating.sql) 
 
-
-
+Примеры [аналитических SQL-запросов](https://github.com/Mbandrovskiy/Data-Learn/blob/main/DE%20-%20101%20Modules/Module02/Fev%20exemples.sql)
 
  ### SQL запросы
 ### Нарисовать модель данных в SQLdbm
