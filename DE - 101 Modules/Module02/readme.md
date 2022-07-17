@@ -21,5 +21,15 @@
 Примеры [аналитических SQL-запросов](https://github.com/Mbandrovskiy/Data-Learn/blob/main/DE%20-%20101%20Modules/Module02/Fev%20exemples.sql)
 
 ### Нарисовать модель данных в SQLdbm
+
+Концептуальная модель:
+![conceptual model.png](https://github.com/Mbandrovskiy/Data-Learn/blob/402f54e8d0903a80df874e2fe59c2e6ab3820f0c/DE%20-%20101%20Modules/Module02/conceptual%20model.png)
+
+Логическая модель:
+![logical model.png](https://github.com/Mbandrovskiy/Data-Learn/blob/402f54e8d0903a80df874e2fe59c2e6ab3820f0c/DE%20-%20101%20Modules/Module02/logical%20model.png)
+
+Физическая модель:
+![physical model.png](https://github.com/Mbandrovskiy/Data-Learn/blob/402f54e8d0903a80df874e2fe59c2e6ab3820f0c/DE%20-%20101%20Modules/Module02/physical%20model.png)
+
 ### Нарисовать графики в Google Sheets
 ### Нарисовать графики в KlipFolio
