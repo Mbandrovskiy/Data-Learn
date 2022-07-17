@@ -32,6 +32,7 @@
 ![physical model.png](https://github.com/Mbandrovskiy/Data-Learn/blob/402f54e8d0903a80df874e2fe59c2e6ab3820f0c/DE%20-%20101%20Modules/Module02/physical%20model.png)
 
 SQL команды
+
 [DDL create](https://github.com/Mbandrovskiy/Data-Learn/blob/6a5dd3d95acc40cada94865b03cd022b2c951698/DE%20-%20101%20Modules/Module02/DDL%20creating.sql)
 
 [DML inserte](https://github.com/Mbandrovskiy/Data-Learn/blob/6a5dd3d95acc40cada94865b03cd022b2c951698/DE%20-%20101%20Modules/Module02/DML%20insert.sql)
