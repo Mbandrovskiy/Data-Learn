@@ -37,5 +37,17 @@ SQL команды
 
 [DML inserte](https://github.com/Mbandrovskiy/Data-Learn/blob/6a5dd3d95acc40cada94865b03cd022b2c951698/DE%20-%20101%20Modules/Module02/DML%20insert.sql)
 
+### Создание баз данных в облаке
+ 1) AWS Lightsail
+      staging layer
+      [DDL](https://github.com/Mbandrovskiy/Data-Learn/blob/15b36976a52905d1177783f40acbf4c435f44751/DE%20-%20101%20Modules/Module02/DDL_stg_lightsail.sql)
+      [DML](https://github.com/Mbandrovskiy/Data-Learn/blob/15b36976a52905d1177783f40acbf4c435f44751/DE%20-%20101%20Modules/Module02/DML_stg_lightsail.sql)
+      
+      DW layer
+      [DDL](https://github.com/Mbandrovskiy/Data-Learn/blob/30bea11e90be203df4e9441882d5e55649cc0010/DE%20-%20101%20Modules/Module02/DDL_de101_lightsail.sql)
+      [DML](https://github.com/Mbandrovskiy/Data-Learn/blob/30bea11e90be203df4e9441882d5e55649cc0010/DE%20-%20101%20Modules/Module02/DML_de101_lightsail.sql)
+      
+      
+
 ### Нарисовать графики в Google Sheets
 ### Нарисовать графики в KlipFolio
