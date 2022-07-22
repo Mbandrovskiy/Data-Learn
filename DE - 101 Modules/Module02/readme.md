@@ -54,5 +54,6 @@ SQL команды
       
       
 
-### Нарисовать графики в Google Sheets
-### Нарисовать графики в KlipFolio
+### Нарисовать графики в [Google Sheets](https://datastudio.google.com/)
+
+![dashboard_gds](https://github.com/Mbandrovskiy/Data-Learn/blob/14109ffb4e8e544ebb19d164f907cde4f2d453e5/DE%20-%20101%20Modules/Module02/dashboard_GDS.png)
