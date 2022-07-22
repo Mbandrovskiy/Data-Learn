@@ -42,7 +42,7 @@ SQL команды
  
       staging layer
       
-      [DDL](https://github.com/Mbandrovskiy/Data-Learn/blob/15b36976a52905d1177783f40acbf4c435f44751/DE%20-%20101%20Modules/Module02/DDL_stg_lightsail.sql)
+      [DDL](https://github.com/Mbandrovskiy/Data-Learn/blob/d119a4a783119f91daf1f056dd782dc168b3477c/DE%20-%20101%20Modules/Module02/DDL_stg_lightsail.sql)
       
       [DML](https://github.com/Mbandrovskiy/Data-Learn/blob/15b36976a52905d1177783f40acbf4c435f44751/DE%20-%20101%20Modules/Module02/DML_stg_lightsail.sql)
       
