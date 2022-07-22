@@ -18,7 +18,7 @@
 
 ### SQL запросы
 
-Примеры [аналитических SQL-запросов](https://github.com/Mbandrovskiy/Data-Learn/blob/main/DE%20-%20101%20Modules/Module02/Fev%20exemples.sql)
+Примеры [аналитических SQL-запросов](https://github.com/Mbandrovskiy/Data-Learn/blob/92281a1c90229430fb6b24d10f5b87a5ee2f8ecf/DE%20-%20101%20Modules/Module02/Fev%20examples.sql)
 
 ### Нарисовать модель данных в [SQLdbm](https://app.sqldbm.com/)
 
