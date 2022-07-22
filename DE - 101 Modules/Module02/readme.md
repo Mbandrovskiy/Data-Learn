@@ -48,7 +48,7 @@ SQL команды
       
       DW layer
       
-      [DDL](https://github.com/Mbandrovskiy/Data-Learn/blob/30bea11e90be203df4e9441882d5e55649cc0010/DE%20-%20101%20Modules/Module02/DDL_de101_lightsail.sql)
+      [DDL](https://github.com/Mbandrovskiy/Data-Learn/blob/8d1b6af4f275dc44dcd89a12be932f8a027c4582/DE%20-%20101%20Modules/Module02/DDL_dw_lightsail.sql)
       
       [DML](https://github.com/Mbandrovskiy/Data-Learn/blob/30bea11e90be203df4e9441882d5e55649cc0010/DE%20-%20101%20Modules/Module02/DML_de101_lightsail.sql)
       
